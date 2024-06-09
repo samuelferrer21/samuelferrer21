@@ -1,6 +1,6 @@
 ## Hey There!
 ### About Me
-I am a Gradute of Business Information Technology at Red River College. with experience as a full stack dev during my short internship working with a local startup. Currently enjkooying backend development and am looking for opprutnities to learn more about Ruby and React development.
+I am a Gradute of Business Information Technology at Red River College. with experience as a full stack dev during my short internship working with a local startup. Currently enjoying backend development and am looking for opportunities to learn more about Ruby and React development.
 
 - 🔭 I’m currently working on: A Dividend Web app Tracker
 - 📫 How to reach me: connect with me on Linkedin and shoot me a message on where you found me! 
