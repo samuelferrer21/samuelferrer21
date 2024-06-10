@@ -1,4 +1,4 @@
-## Hey There!
+## Hey!
 ### About Me
 I am a Gradute of Business Information Technology at Red River College. with experience as a full stack dev during my short internship working with a local startup. Currently enjoying backend development and am looking for opportunities to learn more about Ruby and React development.
 
